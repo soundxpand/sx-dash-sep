@@ -1,0 +1,32 @@
+{
+	"home": "Home",
+
+	"sidenav.new": "Dashboard",
+	"sidenav.new.overview": "Overview",
+	"sidenav.new.analytic": "Analytic",
+
+	"sidenav.distribution": "Distribution",
+	"sidenav.distribution.music": "Music",
+	"sidenav.distribution.music.manage-music": "Manage Music",
+	"sidenav.distribution.music.upload-music": "Upload Music",
+	
+	"sidenav.pages": "Pages",
+	"sidenav.pages.profile": "Profile",
+	"sidenav.pages.invoice": "Invoice",
+	"sidenav.pages.pricing": "Pricing",
+	"sidenav.pages.faq": "FAQ",
+	"sidenav.pages.setting": "Setting",
+	"sidenav.pages.userlist": "User list",
+
+	"sidenav.authentication": "Authentication",
+	"sidenav.authentication.login.1": "Login 1",
+	"sidenav.authentication.login.2": "Login 2",
+	"sidenav.authentication.register.1": "Register 1",
+	"sidenav.authentication.register.2": "Register 2",
+	"sidenav.authentication.forgetPassword": "Forget Password",
+
+	"sidenav.errors": "Errors",
+	"sidenav.errors.error.1": "Error Page 1",
+	"sidenav.errors.error.2": "Error Page 2"
+
+}
